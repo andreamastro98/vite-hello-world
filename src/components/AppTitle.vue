@@ -9,14 +9,14 @@
         }
     }
 
-    </script>
+</script>
 
-    <template>
-        <div>
-            <h1>{{ message }}</h1>
-        </div>
-    </template>
+<template>
+    <div>
+        <h1>{{ message }}</h1>
+    </div>
+</template>
 
-    <style scoped>
+<style>
 
-    </style>
+</style>
